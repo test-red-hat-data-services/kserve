@@ -1,1 +1,1 @@
-.tekton/* -merge
+.tekton/* -diff -merge
